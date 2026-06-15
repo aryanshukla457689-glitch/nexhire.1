@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410335316614",
+    "project_id": "nexhire-afbf3",
+    "storage_bucket": "nexhire-afbf3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410335316614:android:6f384b49b3a820cd35df07",
+        "android_client_info": {
+          "package_name": "com.techiguru.nexhire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410335316614-fb8o2n6eo8erg2shmd1cqu65taecvnnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techiguru.nexhire",
+            "certificate_hash": "704a47db5bdd52ec753b637a42319b094c70929b"
+          }
+        },
+        {
+          "client_id": "410335316614-08f05liku936f6559im1btb0q19s47k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFI4JjSzg8S-JpV1nI42og4jr4DTpz9DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410335316614-08f05liku936f6559im1btb0q19s47k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
