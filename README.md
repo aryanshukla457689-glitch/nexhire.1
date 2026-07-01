@@ -1,6 +1,8 @@
 # nexhire
 
-ai based job finding app
+It is an AI powered job search application. 
+The motive behind developing this project is to help job seekers find suitable job opportunities.
+
 
 ## Getting Started
 
